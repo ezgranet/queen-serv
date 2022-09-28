@@ -1,0 +1,80 @@
+\documentclass[11pt]{article}
+\usepackage{parskip}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usetikzlibrary{calc}
+\usetikzlibrary{decorations.pathmorphing}
+\AddToShipoutPictureBG{\ifnum\value{page}<2% <- change this if you want more
+% or less pages to have a frame
+\begin{tikzpicture}[overlay,remember picture]
+\draw [line width=10pt]
+       ($ (current page.north west) + (3cm,-3cm) $)
+    rectangle
+    ($ (current page.south east) + (-3cm, 3cm) $);
+\end{tikzpicture}%
+\fi}
+
+
+\usepackage{lettrine}
+\usepackage{tabularx	}
+\usepackage{fontspec}
+\usepackage{verbatim}
+\usepackage{textcsc}
+\usepackage{mathpazo}
+
+\setmainfont[Scale=1, RawFeature={+pnum,+onum},ItalicFeatures={%
+SmallCapsFeatures={RawFeature=+smcp}
+},ItalicFont={PerpetuaStd-Italic}]{Perpetua Std}
+\setsansfont[Scale=.8]{Optima LT Std}
+\setmonofont[Scale=.75]{Fira Mono}
+\newcommand{\musictab}[3]{\begin{minipage}[t]{0.5\textwidth}
+    \begin{flushleft}
+\textcolor{black}{\normalfont%
+#1}
+\end{flushleft}
+\end{minipage}%
+%
+\begin{minipage}[t]{0.5\textwidth}
+    \begin{flushright}
+#2\\#3\end{flushright}
+\end{minipage}
+}
+\newcommand{\proc}[2]{\begin{minipage}[t]{\textwidth}\begin{center}\color{black}\normalfont#1\\\textit{#2}
+\end{center}\end{minipage}}
+\usepackage{xcolor}
+\usepackage[margin=5cm]{geometry}
+\definecolor{qred}{HTML}{762841}
+\newcommand{\sntnc}[4]{{\normalfont\color{black}\lettrine[lines=2,loversize=.2]{#1}{#2}{#3}
+\hfill\color{qred}\itshape #4}}
+\newcommand{\hrld}[2]{\begin{minipage}[t]{0.25\textwidth}\begin{center}#1\\#2
+\end{center}\end{minipage}
+}
+\newcommand{\althrld}[2]{\begin{minipage}[t]{0.3\textwidth}\begin{center}#1\\#2
+\end{center}\end{minipage}
+}
+\newcommand{\mylett}[2]{\lettrine[lines=2,loversize=.2]{#1}{#2}}
+
+\newcommand{\splitproc}[4]{\begin{minipage}[t]{0.5\textwidth}
+\begin{center}
+	\proc{#1}{#2}
+\end{center}
+\end{minipage}\begin{minipage}[t]{0.5\textwidth}
+\begin{center}
+	\proc{#3}{#4}
+\end{center}
+\end{minipage}
+}
+\newcommand{\qred}[1]{{\color{qred}%
+\itshape%
+#1%
+}}
+\newcommand{\serv}[1]{\begin{center}
+	\normalfont\color{qred}\bfseries#1
+\end{center}}
+\newfontface\tnr{Times Ten LT Std}
+\begin{document}
+	\input{ordserv.tex}
+\end{document}
