@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.3)  28 SEP 2022 19:00
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.3)  28 SEP 2022 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -479,7 +479,7 @@ Package fontspec Info: Font family 'TimesTenLTStd(0)' created for font 'Times
 (fontspec)             Std/OT:script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- (/Users/ezgranet/Downloads/queen-serv/.texpadtmp/queen-service-master.aux)
+ (/Users/ezgranet/Documents/GitHub/queen-serv/.texpadtmp/queen-service-master.aux)
 \openout1 = `queen-service-master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -829,50 +829,50 @@ File: hymn2.png Graphic file (type bmp)
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (T) loversize=.2;
-(lettrine.sty)             reported on input line 631.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 654.
+(lettrine.sty)             reported on input line 635.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 658.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 654.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 658.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 654.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 658.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 654.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 658.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 654.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 658.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [13]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (M) loversize=.2;
-(lettrine.sty)             reported on input line 697.
+(lettrine.sty)             reported on input line 701.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (O) loversize=.2;
-(lettrine.sty)             reported on input line 736.
+(lettrine.sty)             reported on input line 740.
  [14]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (A) loversize=.2;
-(lettrine.sty)             reported on input line 750.
+(lettrine.sty)             reported on input line 754.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (A) loversize=.2;
-(lettrine.sty)             reported on input line 761.
+(lettrine.sty)             reported on input line 765.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (A) loversize=.2;
-(lettrine.sty)             reported on input line 774.
+(lettrine.sty)             reported on input line 778.
 
-Overfull \hbox (1.14148pt too wide) in paragraph at lines 784--787
+Overfull \hbox (1.14148pt too wide) in paragraph at lines 788--791
 []\TU/PerpetuaStd(0)/m/n/10.95 Let us give thanks for Queen Elizabeth’s commitment to the Commonwealth through-
  []
 
@@ -880,23 +880,23 @@ Overfull \hbox (1.14148pt too wide) in paragraph at lines 784--787
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (L) loversize=.2;
-(lettrine.sty)             reported on input line 803.
+(lettrine.sty)             reported on input line 807.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (B) loversize=.2;
-(lettrine.sty)             reported on input line 813.
+(lettrine.sty)             reported on input line 817.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (O) loversize=.2;
-(lettrine.sty)             reported on input line 824.
+(lettrine.sty)             reported on input line 828.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (O) loversize=.2;
-(lettrine.sty)             reported on input line 839.
+(lettrine.sty)             reported on input line 843.
 
 
 LaTeX Font Warning: Font shape `TU/PerpetuaStd(0)/b/sc' undefined
-(Font)              using `TU/PerpetuaStd(0)/b/n' instead on input line 839.
+(Font)              using `TU/PerpetuaStd(0)/b/n' instead on input line 843.
 
 [16]
 File: hymn3.png Graphic file (type bmp)
@@ -904,61 +904,56 @@ File: hymn3.png Graphic file (type bmp)
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (L) loversize=.2;
-(lettrine.sty)             reported on input line 854.
+(lettrine.sty)             reported on input line 858.
  [17]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (H) loversize=.2;
-(lettrine.sty)             reported on input line 894.
+(lettrine.sty)             reported on input line 898.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (G) loversize=.2;
-(lettrine.sty)             reported on input line 902.
+(lettrine.sty)             reported on input line 906.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (W) loversize=.2;
-(lettrine.sty)             reported on input line 913.
+(lettrine.sty)             reported on input line 917.
  [18]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (G) loversize=.2;
-(lettrine.sty)             reported on input line 927.
+(lettrine.sty)             reported on input line 931.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (G) loversize=.2;
-(lettrine.sty)             reported on input line 950.
+(lettrine.sty)             reported on input line 954.
  [19]
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 987--988
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 991--992
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 995--996
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 999--1000
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1001--1002
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1005--1006
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1014--1015
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1018--1019
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1021--1022
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1025--1026
 [][][]  
  []
 
 [20]
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1032--1033
-[][][]  
- []
-
-
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1035--1036
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1036--1037
 [][][]  
  []
 
@@ -968,27 +963,32 @@ Overfull \hbox (1.64249pt too wide) in paragraph at lines 1039--1040
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1041--1042
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1043--1044
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1044--1045
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1045--1046
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1047--1048
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1048--1049
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1050--1051
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1051--1052
 [][][]  
  []
 
 
-Overfull \hbox (1.64249pt too wide) in paragraph at lines 1055--1056
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1054--1055
+[][][]  
+ []
+
+
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 1059--1060
 [][][]  
  []
 
@@ -996,23 +996,4 @@ Overfull \hbox (1.64249pt too wide) in paragraph at lines 1055--1056
 File: wstmnt.png Graphic file (type bmp)
 <wstmnt.png>
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1082.
-LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 1084.
-) [22
-
-] (/Users/ezgranet/Downloads/queen-serv/.texpadtmp/queen-service-master.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
-Here is how much of TeX's memory you used:
- 16860 strings out of 475748
- 393038 string characters out of 5799184
- 750122 words of memory out of 5000000
- 37674 multiletter control sequences out of 15000+600000
- 475409 words of font info for 103 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 84i,8n,89p,534b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on /Users/ezgranet/Downloads/queen-serv/.texpadtmp/queen-service-master.pdf (22 pages).
+(Font)              
