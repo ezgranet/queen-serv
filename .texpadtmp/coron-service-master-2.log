@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.25)  30 APR 2023 17:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.25)  30 APR 2023 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1034,8 +1034,8 @@ Package lettrine.sty Info: Targeted height = 17.7829pt
  [31
 
 ]
-File: wstmnt.png Graphic file (type bmp)
-<wstmnt.png>
+File: wstmnt-qred.png Graphic file (type bmp)
+<wstmnt-qred.png>
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 1603.
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/b/n' will be
@@ -1049,7 +1049,7 @@ LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/b/n' will be
 ### bottom level 
 Here is how much of TeX's memory you used:
  16693 strings out of 476660
- 393638 string characters out of 5803252
+ 393678 string characters out of 5803252
  1853704 words of memory out of 5000000
  36575 multiletter control sequences out of 15000+600000
  518589 words of font info for 126 fonts, out of 8000000 for 9000
