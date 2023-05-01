@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.25)  30 APR 2023 14:06
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.25)  30 APR 2023 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -715,44 +715,52 @@ Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}I\hspace {.25ex}) loversize=.2;
 (lettrine.sty)             reported on input line 179.
+
+LaTeX Font Warning: Font shape `TU/PerpetuaStd(0)/m/scit' undefined
+(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 191.
+
+Package lettrine.sty Info: Targeted height = 17.7829pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}I\hspace {.25ex}) loversize=.2;
+(lettrine.sty)             reported on input line 193.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}S\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 205.
+(lettrine.sty)             reported on input line 211.
 [4
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}Y\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 218.
+(lettrine.sty)             reported on input line 227.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}W\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 236.
+(lettrine.sty)             reported on input line 245.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}W\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 256.
+(lettrine.sty)             reported on input line 265.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (\color {qred}A\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 269.
+(lettrine.sty)             reported on input line 278.
  [5
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}Y\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 277.
+(lettrine.sty)             reported on input line 286.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}I\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 285.
+(lettrine.sty)             reported on input line 294.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}G\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 310.
+(lettrine.sty)             reported on input line 319.
  [6
 
 ] [7
@@ -761,27 +769,27 @@ Package lettrine.sty Info: Targeted height = 17.7829pt
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}L\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 374.
+(lettrine.sty)             reported on input line 383.
 
 
 LaTeX Font Warning: Font shape `TU/PerpetuaStd(0)/m/scit' undefined
-(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 392.
+(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 401.
 
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}F\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 396.
+(lettrine.sty)             reported on input line 405.
 [8
 
 ]
 
 LaTeX Font Warning: Font shape `TU/PerpetuaStd(0)/m/scit' undefined
-(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 439.
+(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 448.
 
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}J\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 450.
+(lettrine.sty)             reported on input line 459.
 [9
 
 ] [10
@@ -790,140 +798,140 @@ Package lettrine.sty Info: Targeted height = 17.7829pt
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}B\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 544.
+(lettrine.sty)             reported on input line 553.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}B\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 596.
+(lettrine.sty)             reported on input line 605.
  [11]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}O\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 622.
+(lettrine.sty)             reported on input line 631.
  [12]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 660.
+(lettrine.sty)             reported on input line 669.
 LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 9.74548pt on input line 672.
+(Font)              scaled to size 9.74548pt on input line 681.
  [13]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}H\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 720.
+(lettrine.sty)             reported on input line 729.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 738.
+(lettrine.sty)             reported on input line 747.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}W\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 758.
+(lettrine.sty)             reported on input line 767.
  [14]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 789.
+(lettrine.sty)             reported on input line 798.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 808.
+(lettrine.sty)             reported on input line 817.
  [15
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 822.
+(lettrine.sty)             reported on input line 831.
 
 
 LaTeX Font Warning: Font shape `TU/PerpetuaStd(0)/m/scit' undefined
-(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 837.
+(Font)              using `TU/PerpetuaStd(0)/m/sc' instead on input line 846.
 
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 849.
+(lettrine.sty)             reported on input line 858.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 866.
+(lettrine.sty)             reported on input line 875.
 [16
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 885.
+(lettrine.sty)             reported on input line 894.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}K\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 899.
+(lettrine.sty)             reported on input line 908.
  [17
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 944.
+(lettrine.sty)             reported on input line 953.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 951.
+(lettrine.sty)             reported on input line 960.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 957.
+(lettrine.sty)             reported on input line 966.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 962.
+(lettrine.sty)             reported on input line 971.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}M\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 969.
+(lettrine.sty)             reported on input line 978.
  [18
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}S\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 999.
+(lettrine.sty)             reported on input line 1008.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}I\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1010.
+(lettrine.sty)             reported on input line 1019.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}I\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1024.
+(lettrine.sty)             reported on input line 1033.
  [19
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}B\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1080.
+(lettrine.sty)             reported on input line 1089.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (\color {qred}A\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1087.
+(lettrine.sty)             reported on input line 1096.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1107.
+(lettrine.sty)             reported on input line 1116.
  [20
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}M\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1120.
+(lettrine.sty)             reported on input line 1129.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}R\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1137.
+(lettrine.sty)             reported on input line 1146.
  [21
 
 ] [22
@@ -934,104 +942,104 @@ Package lettrine.sty Info: Targeted height = 17.7829pt
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}B\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1215.
+(lettrine.sty)             reported on input line 1224.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}O\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1246.
+(lettrine.sty)             reported on input line 1255.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1263.
+(lettrine.sty)             reported on input line 1272.
  [24
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.80054pt (\color {qred}A\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1281.
+(lettrine.sty)             reported on input line 1290.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}H\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1296.
+(lettrine.sty)             reported on input line 1305.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}W\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1304.
+(lettrine.sty)             reported on input line 1313.
  [25
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}W\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1317.
+(lettrine.sty)             reported on input line 1326.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1337.
+(lettrine.sty)             reported on input line 1346.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}O\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1351.
+(lettrine.sty)             reported on input line 1360.
  [26
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.33942pt (\color {qred}T\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1387.
+(lettrine.sty)             reported on input line 1396.
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}O\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1401.
+(lettrine.sty)             reported on input line 1410.
  [27
 
 ]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 21.08794pt (\color {qred}O\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1418.
+(lettrine.sty)             reported on input line 1427.
  [28
 
 ] [29
 
 ]
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1546.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1555.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 1546.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 1555.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 1546.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 1555.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 1546.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 1555.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 1546.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 1555.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1546.
+(Font)              scaled to size 8.0pt on input line 1555.
  [30]
 Package lettrine.sty Info: Targeted height = 17.7829pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 20.58499pt (\color {qred}Y\hspace {.25ex}) loversize=.2;
-(lettrine.sty)             reported on input line 1570.
+(lettrine.sty)             reported on input line 1579.
  [31
 
 ]
 File: wstmnt.png Graphic file (type bmp)
 <wstmnt.png>
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 1594.
+(Font)              scaled to size 8.0pt on input line 1603.
 LaTeX Font Info:    Font shape `TU/PerpetuaStd(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 1596.
+(Font)              scaled to size 8.0pt on input line 1605.
 ) [32
 
 ] (/Users/ezgranet/Documents/GitHub/queen-serv/.texpadtmp/coron-service-master-2.aux) )
